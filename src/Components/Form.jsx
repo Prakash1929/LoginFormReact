@@ -14,7 +14,7 @@ const Form = () => {
   setPass(""); 
  }
  else{
-  alert("someting is wrong plss make sure all fileds are done")
+  alert("someting is wrong plss make sure all fileds are done ✅")
  }
   };
 
